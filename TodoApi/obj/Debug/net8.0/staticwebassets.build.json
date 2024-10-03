@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "T4sLDhD1jdjYM+hhILXXazVDd8MoIGdDm5PaVtf1hRU=",
+  "Source": "TodoApi",
+  "BasePath": "_content/TodoApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TodoApi/wwwroot",
+      "Source": "TodoApi",
+      "ContentRoot": "/Users/hodoan/Documents/source/server-apn/TodoApi/wwwroot/",
+      "BasePath": "_content/TodoApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/hodoan/Documents/source/server-apn/TodoApi/wwwroot/js/signalr/dist/browser/signalr.js",
+      "SourceId": "TodoApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/hodoan/Documents/source/server-apn/TodoApi/wwwroot/",
+      "BasePath": "_content/TodoApi",
+      "RelativePath": "js/signalr/dist/browser/signalr.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/signalr/dist/browser/signalr.js"
+    }
+  ]
+}
